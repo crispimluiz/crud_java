@@ -1,7 +1,7 @@
-package com.aula42.listaDeProdutos.model;
+
+
 
 import lombok.*;
-
 import javax.persistence.*;
 
 @Data

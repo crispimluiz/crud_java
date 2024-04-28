@@ -1,8 +1,8 @@
 package com.aula42.listaDeProdutos.controller;
 
-import com.aula42.listaDeProdutos.model.ProdutosModel;
-import com.aula42.listaDeProdutos.model.valoresProdutos.CalculoDesconto;
-import com.aula42.listaDeProdutos.service.ProdutosService;
+import com.model.ProdutosModel;
+import com.valoresProdutos.CalculoDesconto;
+import com.service.ProdutosService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
